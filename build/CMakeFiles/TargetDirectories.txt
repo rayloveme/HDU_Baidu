@@ -1,0 +1,3 @@
+/root/workspace/car/build/CMakeFiles/rebuild_cache.dir
+/root/workspace/car/build/CMakeFiles/run_car.dir
+/root/workspace/car/build/CMakeFiles/edit_cache.dir

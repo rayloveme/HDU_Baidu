@@ -1,0 +1,11 @@
+#pragma once
+#include <stdio.h>
+#include <stdlib.h>
+#include <fstream>
+#include <iostream>
+#include <unistd.h>
+#include <cmath>
+#include <time.h>
+#include <opencv2/highgui.hpp>
+#include <opencv2/opencv.hpp>
+#include "Image_process.h"
